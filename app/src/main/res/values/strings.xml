@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChipAction</string>
+    <string name="choose_action">Choose Action</string>
+    <string name="add_item">Add Item</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="delete_item">Delete Item</string>
+</resources>
