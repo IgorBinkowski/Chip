@@ -1,4 +1,4 @@
-package com.tutorialwing.chipaction
+package com.example.chip
 
 import android.os.Bundle
 import android.widget.Toast
