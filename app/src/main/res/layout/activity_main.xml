@@ -31,24 +31,21 @@
             style="@style/Widget.MaterialComponents.Chip.Action"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/add_item"
-            app:chipIcon="@drawable/ic_add" />
+            android:text="@string/add_item"/>
 
         <com.google.android.material.chip.Chip
             android:id="@+id/chip2"
             style="@style/Widget.MaterialComponents.Chip.Action"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/edit_item"
-            app:chipIcon="@drawable/ic_edit" />
+            android:text="@string/edit_item"/>
 
         <com.google.android.material.chip.Chip
             android:id="@+id/chip3"
             style="@style/Widget.MaterialComponents.Chip.Action"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/delete_item"
-            app:chipIcon="@drawable/ic_delete" />
+            android:text="@string/delete_item"/>
 
     </com.google.android.material.chip.ChipGroup>
 

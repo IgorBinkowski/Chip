@@ -1,10 +1,9 @@
-package com.example.chip
+package com.tutorialwing.chipaction
 
-
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import com.tutorialwing.chipaction.databinding.ActivityMainBinding
+import androidx.appcompat.app.AppCompatActivity
+import com.example.chip.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
